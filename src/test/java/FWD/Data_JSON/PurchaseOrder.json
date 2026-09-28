@@ -1,0 +1,19 @@
+[
+{
+"email": "standard_user",
+"password": "secret_sauce",
+"Products": [
+      "Sauce Labs Bolt T-Shirt",
+      "Sauce Labs Onesie"
+    ]
+},
+
+{
+"email": "visual_user",
+"password": "secret_sauce",
+"Products": [
+      "Sauce Labs Backpack",
+      "Sauce Labs Bike Light"
+    ]
+}
+]
